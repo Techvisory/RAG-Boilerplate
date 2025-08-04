@@ -147,4 +147,4 @@ MIT License - see LICENSE file for details.
 
 **Deployment URLs:**
 - Self-hosted: `https://yourdomain.com/rag`
-- Techvisory Cloud: `https://rag.techvisory.ai` 
+- Techvisory Cloud: `https://rag.techvisory.io` 
